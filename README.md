@@ -1,2 +1,1 @@
-# marianealidio.github.io
 SoftDevGroupProject
